@@ -1,6 +1,6 @@
 # Higher
  
-Fazer um programa para ler três números inteiros e mostrar na tela o maior deles.
+Feito um programa para ler três números inteiros e mostrar na tela o maior deles.
 
 Exemplo:
 Enter three numbers:
